@@ -1,11 +1,6 @@
 # Java Project #1
 Проект на Java
 
-UML схема
-
-![image](https://user-images.githubusercontent.com/56474558/209449420-4fe0733a-8f58-4b02-8bfc-e90fb8f0c874.png)
-
-
 # Иерархия классов
 Создай иерархию классов с продуктами, которые можно положить в корзину.
 Создай их в отдельном пакете "model" .
@@ -86,4 +81,9 @@ UML схема
 "ShoppingCart". B "ShoppingCart" реализованы методы.
 
 Все классы и интерфейс реализованы по требованиям в задании.
+
+
+UML схема (не доработана)
+
+![image](https://user-images.githubusercontent.com/56474558/209449420-4fe0733a-8f58-4b02-8bfc-e90fb8f0c874.png)
 
