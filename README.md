@@ -12,4 +12,6 @@ Java extends 2
 UML
 ![image](https://user-images.githubusercontent.com/56474558/209448889-35612170-605e-4d77-9b93-36b776841cb3.png)
 
+Java Project 1 (not full)
+UML
 ![image](https://user-images.githubusercontent.com/56474558/209449401-9d0e9030-f9ad-4c2a-9b0e-333f466baa33.png)
