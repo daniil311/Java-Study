@@ -14,7 +14,7 @@ public class Main {
         Meat meat = new Meat(5, 100.0, 1);
         Apple redapple = new Apple(10, 50.0, Colour.RED, 2);
         Apple greenapple = new Apple(8, 60.00, Colour.GREEN, 3);
-        People vasia = new People("Vasia", "Svetliy","Alekseevich");
+        People vasia = new People("Daniil", "Man","Alekseevich");
 
         ArrayList<Food> foodList = new ArrayList<Food>(); // ArrayList в котором хранятся продукты для передачи в ShoppingCart
         foodList.add(meat);
