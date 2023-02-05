@@ -1,0 +1,18 @@
+public class Room {
+    private int area;
+
+    private Item[] itemsRoom;  // поле типа массива объектов класса Item, связь - композиция
+    //кратность - неограниченное количество элементов
+
+    public Room(int area, Item[] itemsRoom){
+        this.area = area;             //инициализация
+        this.itemsRoom = itemsRoom;
+
+    }
+    public int getArea(){
+        return area;
+    }
+    public Item[] getItemsRoom(){   //интерфейс
+        return itemsRoom;
+    }
+}
